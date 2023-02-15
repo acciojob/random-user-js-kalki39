@@ -1,2 +1,7 @@
 
 /* Your CSS Code here. */
+img{
+            width: 200px;
+            height: 200px;
+            /* object-fit: cover; */
+        }
